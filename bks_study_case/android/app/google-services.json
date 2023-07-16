@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422943624278",
+    "project_id": "bks-study-case",
+    "storage_bucket": "bks-study-case.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422943624278:android:2ae8f2f3661ba28b033ff7",
+        "android_client_info": {
+          "package_name": "com.example.bks_study_case"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422943624278-bp81bji7hbk4agbl6r6j85s4n87g7795.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjP24Vhuea2OZEcp6lQZpVegTqYNrDChI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422943624278-bp81bji7hbk4agbl6r6j85s4n87g7795.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
